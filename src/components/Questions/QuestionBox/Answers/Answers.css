@@ -1,0 +1,8 @@
+.Answers {
+    border: 2px solid gray;
+    width: 200px;
+}
+
+.Answers input {
+    display: block;
+}

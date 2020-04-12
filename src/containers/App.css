@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  width: 600px;
+}
+
+.testBoxes {
+  border: 2px solid gray;
+  cursor: pointer;
+  margin-left: 68%;
+  width: 600px;
+}
+
+.testBoxes p:hover {
+  color: blue;
+}

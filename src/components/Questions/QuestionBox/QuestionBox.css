@@ -1,0 +1,8 @@
+.QuestionBox {
+    text-align: left;
+    border: 2px solid gray;
+}
+
+.correctAnswer {
+    display: block;
+}
